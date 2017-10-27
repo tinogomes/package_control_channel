@@ -90,6 +90,17 @@
 			]
 		},
 		{
+			"name": "FactoryBot",
+			"details": "https://github.com/tinogomes/Sublime-FactoryBot-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FactoryBoy",
 			"details": "https://github.com/mgaitan/sublime-factoryboy",
 			"labels": ["snippets"],
